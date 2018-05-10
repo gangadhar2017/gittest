@@ -5,4 +5,5 @@
 echo "enter your name"
 read name
 echo -e "well come to the shellscripting $name"
+echo -e "hello $name how are you?"
 
